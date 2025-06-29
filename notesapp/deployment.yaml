@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo-app
-        image: abhidochub123/myapp123:lts
+        image: abhidochub123/myapp:lts
         ports: 
         - containerPort: 8000
